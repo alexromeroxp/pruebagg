@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns="http://edcinvoice-cfdi.com.mx" xmlns:catCFDI="http://www.sat.gob.mx/sitio_internet/cfd/catalogos" xmlns:tdCFDI="http://www.sat.gob.mx/sitio_internet/cfd/tipoDatos/tdCFDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIGYTCCBEmgAwIBAgIUMDAwMDEwMDAwMDA0MDU1NDM3NjkwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTcwMzIxMTcwNTM2WhcNMjEwMzIxMTcwNTM2WjCCAQAxLDAqBgNVBAMTI1JFR1VTIE1BTkFHRU1FTlQgREUgTUVYSUNPIFNBIERFIENWMSwwKgYDVQQpEyNSRUdVUyBNQU5BR0VNRU5UIERFIE1FWElDTyBTQSBERSBDVjEsMCoGA1UEChMjUkVHVVMgTUFOQUdFTUVOVCBERSBNRVhJQ08gU0EgREUgQ1YxJTAjBgNVBC0THFJNTTA4MDEwMVY1NCAvIEZBQkw2NTA0MTA0UkExHjAcBgNVBAUTFSAvIEZBQkw2NTA0MTBIREZSTFMwODEtMCsGA1UECxQkUmVndXMgTWFuYWdlbWVudCBkZSBN6XhpY28gU0EgZGUgQ1agMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA28SEqHAEau0A07JXo7TMRWFELe7UAaicBV8hqHLgkNsAKk3kLkYQhNHkOYhD4xgoZOPyw1M9pDbg/5PagcjL0ppj+JqtMkDg1lE+Bw802yKCtpvWwnyldtIZ2AAnrusbI/ihM5VYuApq8tiWwXBUyinXQ9crNiyO4DFmagrBdL3P9Pshhwr0gkscoIkG7OTRzNFQpITE5vucG+QaAlKUmEfgNE1+Fp8UwrOvXCpk9Lv7pjg6EryVNec8SjFgsCvybRztYQ8sfO71XMMY43hqe2ctIiD231d6Mmomlt8UmZddj0KkH+JGil27J/izCn4NRlpD6lkSz4nZsCQX5fCUmwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQsFAAOCAgEARpRlXn0Xlx9lzcxl4WbD0sFhjqJL5tjJBQfZY3mLFwtMcY28a+XwFwxuihFrNkTvYWmbdf7PMQVNlOwVxPmosb4c8NYtAUdBnU9GpMprTQhoFQQ8KkhYns97XVCpo9Wfg8vtppznTxotjflsN/Sa401mRXvUN8WXwIQpH08Jh2J0zlmIiUcv1vk6LTvlU5r/N7xPn5cEmmlWECSO7G9Ia0zfU9rutz6rSEoPzGTXoMCrz8g+a+56NsEhuXCWxQC/s0AKWoZfJsPVVZDROrSZo3cSR6CZWk3hpn5FCcvhrMnReclxt1pVKqb7EpIJuDbbDjmCdvqN1rtFOTdg9U3nLsom4lorl6tPxW3DImg4gAEfj9frAMhX/Pt+1h3WsRxvW9jVXEjVfdYPNWQCi9nj/zx6p9FbK/wGRMWqHnhwZgLSemWkLWqQf3uVtDVvOSEnsr8jCAszOvM4VeHcr3SKmLqpwFgd6Lw6GYf3YUMnrcLhE9p8z/1EVOh2lW27ThiZKX1z8zpRWPJca/hV26nz0qtI4S0qmqfvsHVmS5zSAMiJlSzoygy1NCo9Y9wvcg5OqXy9yM2MGzbFtD44QOAKirCN4iwtHWXCavcTHVt6OJTAqmgATjhgY//7gVTo0yknSDivR62Xt2+HF5j9N9ezli2wzVYVgZhgvb0NsZ8ZFos=" CondicionesDePago="30" Fecha="2018-02-12T18:45:14" Folio="48870" FormaPago="99" LugarExpedicion="06600" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000405543769" Sello="rnvKLmQcKakIPGB40s3pWExsiOufhn6prlkz3iB2yIGdfDXPPYyM426KF2jV7j+GcvkprUqWlfifO5obLQQEMjG5bk+uBIY2UMSrGKKhuFZngCewAixM6C4x9785Pb7JvkpPY74/rmV12OvhGSC+81bxQ84uPgEeZlslHxkPv2I7AT+1GuFpHfbGncxVdmKBjfja2lAXpkWmBcIU6NMvFOO7feZCIo4isjscEdhKZPaiNwuaQUYuQLV7BJTjp34imL6EKADQBa21NMoSFdfYbNq4kVhAjFBXq5IaQnZ71SqqJF5cPXB5L0rhGw8qQin0Z2wX0DM6Jg3wjQhOzEMVfQ==" Serie="BINS" SubTotal="24255.94" TipoCambio="1" TipoDeComprobante="I" Total="28136.89" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd "><cfdi:Emisor Nombre="Regus Management México SA de CV" RegimenFiscal="601" Rfc="RMM080101V54"/><cfdi:Receptor Nombre="BBP&amp;IT ENTERPRISE SERVICES DE MEXICO SA DE CV" Rfc="BES0603233V3" UsoCFDI="G03"/><cfdi:Conceptos><cfdi:Concepto Cantidad="1.00" ClaveProdServ="90111603" ClaveUnidad="A9" Descripcion="Sala de Juntas - Tiempo extra" Importe="374.00" Unidad="No Aplica" ValorUnitario="374.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="374.00" Importe="59.84" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="80161504" ClaveUnidad="A9" Descripcion="Oficina - Tarifa mensual" Importe="7280.08" Unidad="No Aplica" ValorUnitario="7280.08"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="7280.08" Importe="1164.81" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="80161504" ClaveUnidad="A9" Descripcion="Oficina - Tarifa mensual" Importe="7438.01" Unidad="No Aplica" ValorUnitario="7438.01"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="7438.01" Importe="1190.08" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="90111603" ClaveUnidad="A9" Descripcion="Sala de Juntas" Importe="374.00" Unidad="No Aplica" ValorUnitario="374.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="374.00" Importe="59.84" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78102200" ClaveUnidad="XPK" Descripcion="Mensajería Nacional" Importe="189.55" Unidad="No Aplica" ValorUnitario="189.55"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="189.55" Importe="30.33" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78111807" ClaveUnidad="A9" Descripcion="Parking - Tarifa mensual" Importe="1700.00" Unidad="No Aplica" ValorUnitario="1700.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="1700.00" Importe="272.00" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78111807" ClaveUnidad="A9" Descripcion="Parking - Tarifa mensual" Importe="1700.00" Unidad="No Aplica" ValorUnitario="1700.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="1700.00" Importe="272.00" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="90101603" ClaveUnidad="Q3" Descripcion="Catering - Snacks" Importe="134.30" Unidad="No Aplica" ValorUnitario="134.30"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="134.30" Importe="21.49" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="83111500" ClaveUnidad="XKI" Descripcion="Servicio de IT y Telefonia" Importe="2533.00" Unidad="No Aplica" ValorUnitario="2533.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="2533.00" Importe="405.28" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="83111500" ClaveUnidad="XKI" Descripcion="Servicio de IT y Telefonia" Importe="2533.00" Unidad="No Aplica" ValorUnitario="2533.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="2533.00" Importe="405.28" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="3880.95"><cfdi:Traslados><cfdi:Traslado Importe="3880.95" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2018-02-13T14:06:53" NoCertificadoSAT="00001000000405179533" RfcProvCertif="LEV031201SE6" SelloCFD="rnvKLmQcKakIPGB40s3pWExsiOufhn6prlkz3iB2yIGdfDXPPYyM426KF2jV7j+GcvkprUqWlfifO5obLQQEMjG5bk+uBIY2UMSrGKKhuFZngCewAixM6C4x9785Pb7JvkpPY74/rmV12OvhGSC+81bxQ84uPgEeZlslHxkPv2I7AT+1GuFpHfbGncxVdmKBjfja2lAXpkWmBcIU6NMvFOO7feZCIo4isjscEdhKZPaiNwuaQUYuQLV7BJTjp34imL6EKADQBa21NMoSFdfYbNq4kVhAjFBXq5IaQnZ71SqqJF5cPXB5L0rhGw8qQin0Z2wX0DM6Jg3wjQhOzEMVfQ==" SelloSAT="pbcqTbHsHzzhlRaRGIJ2u2h4gWDykJBbRDG4E7xlzu0cEcjWcm9sTAgIK+cy2NyqlJdubu1aIv6jFQ3dENybXJTG94ZnRzzdRHYSXYtjBZPUFiNdJ2t2lIuiNuUO9Hh+ZCa6XT3+ylE3fSyN9H2xd5KB2cUS6mzqaoldmO61yCN3+we1MPeUy1ejNKoYZwjfEN8x6UI+u6bN6+1CxekW2unQzCsPRlgeWfV4HjcdZzuRPIX0yNzGcfGV5SP3jyDDX+AhqaEAmxLbFAKsj0tfzx/yGV+CU3hMVfVbVGznqjMqEMQG+O7TY5W1h04iuNwTqKe/9+nNPx9H7knKmVW8AA==" UUID="A7AA4591-5227-4916-932F-EF49BC3E4449" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"/></cfdi:Complemento><cfdi:Addenda><lev1add:EDCINVOICE xmlns:lev1add="http://www.edcinvoice.com/lev1add" xsi:schemaLocation="http://www.edcinvoice.com/lev1add http://www.edcinvoice.com/lev1add/lev1add.xsd">[H0C_Generales]|BES0603233V3|903289|3.3||00001000000405543769|I||
+[H1F_Comprobante]|3.3|BINS|48870|2018-02-12T18:45:14|99|30|24255.94||MXN|1|28136.89|I|PPD|06600|NO/NO||||||||||||||||||||
+[H1C_Comprobante]|||||||Original|||16||||||||||||||||||I||veintiocho mil ciento treinta y seis pesos 89/100|20180225||No Identificado||||||||||||||||||581/23268|FACTURA COMERCIAL|||||||||||||
+[H2F_CfdiRelacionados]|||||
+[H2C_CfdiRelacionados]|||||||||||||||||
+[H2-1F_CfdiRelacionado]|||||
+[H2-1C_CfdiRelacionado]|||||
+[H3F_Emisor]|RMM080101V54|Regus Management México SA de CV|601|||||||||||||||||
+[H3C_Emisor]|||Al.Francisco@regus.com||||||||||||||||||||||||||||||
+[H3-1C_EmisorDomFiscal]|Av.Reforma|350|11|Juarez|México||Cuauhtemoc|México D.F.|México|06600|||||||||||||||
+[H3-2C_EmisorDomExped]||||Ave. Insurgentes Sur No.800 - Piso 8|||Col. Del Valle|||Mexico|Ciudad de Mexico|Mexico|03100|||||||||||||||
+[H4F_Receptor]|BES0603233V3|BBP&amp;IT ENTERPRISE SERVICES DE MEXICO SA DE CV|||G03||||||||||||||||||||
+[H4C_Receptor]||Fernando Ismael  Herrera Beltran|||||||||||7761859||||||||||||||
+[H4-1C_ReceptorDom]|Avenida Insurgentes 800 8VO Piso Oficina 32||||||Col. Del Valle, Del. Benito Juarez|Mexico Ciudad de Mexico|Mexico|03100|||||||||||||||
+[H4-2C_ReceptorEntrega]|||||Fernando Ismael  Herrera Beltran||||||||||||||||||||||||||||||
+[D1F_Detalle]|90111603||1.00|A9|No Aplica|Sala de Juntas - Tiempo extra|374.00|374.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||374.00|1.00||||||||||||||||16.00|59.84|||0.00|0.00|||||||||||||||||||||||||||||||||||ENE. 30 2018 - ENE. 30 2018||||||||
+[D2F_ImpTrasladosTraslado]|374.00|002|Tasa|0.16|59.84|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|80161504||1.00|A9|No Aplica|Oficina - Tarifa mensual|7280.08|7280.08||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||7280.08|1.00||||||||||||||||16.00|1164.81|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|7280.08|002|Tasa|0.16|1164.81|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|80161504||1.00|A9|No Aplica|Oficina - Tarifa mensual|7438.01|7438.01||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||7438.01|1.00||||||||||||||||16.00|1190.08|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|7438.01|002|Tasa|0.16|1190.08|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|90111603||1.00|A9|No Aplica|Sala de Juntas|374.00|374.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||374.00|1.00||||||||||||||||16.00|59.84|||0.00|0.00|||||||||||||||||||||||||||||||||||ENE. 30 2018 - ENE. 30 2018||||||||
+[D2F_ImpTrasladosTraslado]|374.00|002|Tasa|0.16|59.84|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|78102200||1.00|XPK|No Aplica|Mensajería Nacional|189.55|189.55||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||189.55|1.00||||||||||||||||16.00|30.33|||0.00|0.00|||||||||||||||||||||||||||||||||||ENE. 10 2018 - ENE. 10 2018||||||||
+[D2F_ImpTrasladosTraslado]|189.55|002|Tasa|0.16|30.33|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|78111807||1.00|A9|No Aplica|Parking - Tarifa mensual|1700.00|1700.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||1700.00|1.00||||||||||||||||16.00|272.00|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|1700.00|002|Tasa|0.16|272.00|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|78111807||1.00|A9|No Aplica|Parking - Tarifa mensual|1700.00|1700.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||1700.00|1.00||||||||||||||||16.00|272.00|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|1700.00|002|Tasa|0.16|272.00|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|90101603||1.00|Q3|No Aplica|Catering - Snacks|134.30|134.30||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||134.30|1.00||||||||||||||||16.00|21.49|||0.00|0.00|||||||||||||||||||||||||||||||||||ENE. 19 2018 - ENE. 19 2018||||||||
+[D2F_ImpTrasladosTraslado]|134.30|002|Tasa|0.16|21.49|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|83111500||1.00|XKI|No Aplica|Servicio de IT y Telefonia|2533.00|2533.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||2533.00|1.00||||||||||||||||16.00|405.28|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|2533.00|002|Tasa|0.16|405.28|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|83111500||1.00|XKI|No Aplica|Servicio de IT y Telefonia|2533.00|2533.00||||||||||||||||||||||
+[D1C_Detalle]||||||||||||||||2533.00|1.00||||||||||||||||16.00|405.28|||0.00|0.00|||||||||||||||||||||||||||||||||||MAR. 01 2018 - MAR. 31 2018||||||||
+[D2F_ImpTrasladosTraslado]|2533.00|002|Tasa|0.16|405.28|||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[I1F_Impuestos]||3880.95||||||||
+[I1C_Impuestos]||||||||||
+[I2F_Retencion]||||||||||
+[I2C_Retencion]||||||||||
+[I3F_Trasladado]|002|Tasa|0.16|3880.95||||||
+[I3C_Trasladado]||||||||||
+[SC_Sumario]|24255.94|||||3880.95|||28136.89|||16.00||||||||||||||||||||||||24255.94||||||||||||||||
+[CO]|||3.3|BINS|48870|2018-02-12T18:45:14|99|00001000000405543769|30|24255.94|MXN|1|28136.89|I|PPD|06600|RMM080101V54|Regus Management México SA de CV|601|BES0603233V3|BBP&amp;IT ENTERPRISE SERVICES DE MEXICO SA DE CV|G03|90111603|1.00|A9|No Aplica|Sala de Juntas - Tiempo extra|374.00|374.00|374.00|002||
+[CO]|Tasa|0.16|59.84|80161504|1.00|A9|No Aplica|Oficina - Tarifa mensual|7280.08|7280.08|7280.08|002|Tasa|0.16|1164.81|80161504|1.00|A9|No Aplica|Oficina - Tarifa mensual|7438.01|7438.01|7438.01|002|Tasa|0.16|1190.08|90111603|1.00|A9|No Aplica|Sala de Juntas|374.00|374.00|374.00|002|Tasa|0.16|59.84||
+[CO]|78102200|1.00|XPK|No Aplica|Mensajería Nacional|189.55|189.55|189.55|002|Tasa|0.16|30.33|78111807|1.00|A9|No Aplica|Parking - Tarifa mensual|1700.00|1700.00|1700.00|002|Tasa|0.16|272.00|78111807|1.00|A9|No Aplica|Parking - Tarifa mensual|1700.00|1700.00|1700.00|002|Tasa|0.16|272.00|90101603|1.0|
+[CO]|0|Q3|No Aplica|Catering - Snacks|134.30|134.30|134.30|002|Tasa|0.16|21.49|83111500|1.00|XKI|No Aplica|Servicio de IT y Telefonia|2533.00|2533.00|2533.00|002|Tasa|0.16|405.28|83111500|1.00|XKI|No Aplica|Servicio de IT y Telefonia|2533.00|2533.00|2533.00|002|Tasa|0.16|405.28|002|Tasa|0.16|3880.95|
+[CO]||3880.95|||
+[SE]|rnvKLmQcKakIPGB40s3pWExsiOufhn6prlkz3iB2yIGdfDXPPYyM426KF2jV7j+GcvkprUqWlfifO5obLQQEMjG5bk+uBIY2UMSrGKKhuFZngCewAixM6C4x9785Pb7JvkpPY74/rmV12OvhGSC+81bxQ84uPgEeZlslHxkPv2I7AT+1GuFpHfbGncxVdmKBjfja2lAXpkWmBcIU6NMvFOO7feZCIo4isjscEdhKZPaiNwuaQUYuQLV7BJTjp34imL6EKADQBa21NMoSFdfYbNq4kVhAjFBXq5IaQnZ71SqqJF5cPXB5L0rhGw8qQin0Z2wX0DM6Jg3wjQhOzEMVfQ==</lev1add:EDCINVOICE>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
